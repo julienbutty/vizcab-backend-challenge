@@ -1,0 +1,25 @@
+{
+  "name": "vizcab-backend-challenge",
+  "version": "1.0.0",
+  "description": "## Contexte",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "^20",
+    "npm": "^10",
+    "pnpm": "^9"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.13",
+    "@types/node": "^22.7.4",
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.7",
+    "nx": "^19.8.2",
+    "typescript": "^5.6.2"
+  }
+}

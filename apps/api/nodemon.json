@@ -1,0 +1,14 @@
+{
+    "ext": "ts",
+    "exec": "npx nx build api --verbose && node dist/src/main.js :",
+    "ignore": [
+      "**/dist/**/*",
+      "**/node_modules/**/node_modules"
+    ],
+    "verbose": true,
+    "watch": [
+      "src",
+      "../../features",
+      "../../libs"
+    ]
+  }
